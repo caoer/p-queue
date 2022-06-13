@@ -1,11 +1,10 @@
 {
-	"name": "p-queue",
+	"name": "@zitao/p-queue",
 	"version": "7.2.0",
 	"description": "Promise queue with concurrency control",
 	"license": "MIT",
-	"repository": "sindresorhus/p-queue",
+	"repository": "caoer115/p-queue",
 	"funding": "https://github.com/sponsors/sindresorhus",
-	"type": "module",
 	"exports": "./dist/index.js",
 	"engines": {
 		"node": ">=12"
